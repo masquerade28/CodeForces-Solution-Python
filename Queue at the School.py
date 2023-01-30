@@ -1,3 +1,12 @@
+                                                            ''' MAIN LOGIC '''
+
+                                                        ''' Iterate Through The List, 
+                                            If Position Of Boy Is 'n' and Position Of Girl Is 'n+1', 
+                                                Swap Their Positions And Move To Third Element. 
+                                        If Boy At 3rd Position (n+2) Is Not Standing In Front Of A Girl, 
+                                                    i.e., There Is Boy At (n+3) Position, 
+                                            Just Move To 4th Element And Compare It With Next One. '''
+
 # This takes two inputs separated by space and converts them into integer
 n,t = map(int,input().split())
 
