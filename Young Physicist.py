@@ -1,3 +1,9 @@
+
+                                                            ''' MAIN LOGIC '''
+
+                                              ''' If algebric sum of all the forces is zero,
+                                                          It is in equilibrium'''
+
 # Taking Input For Number Of Forces Which Are Acting Upon The Object
 forces = int(input())
 
